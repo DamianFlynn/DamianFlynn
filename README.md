@@ -24,7 +24,7 @@ class DamianFlynn:
             'backend': ['Python', 'NodeJS', 'Bash', 'PowerShell', 'C#'],
             'database': ['MsSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
             'devops': ['Docker', 'K8s', 'Flux', 'ArgoCD', 'Nginx', 'Traefik', 'GitHub Actions', 'Azure', 'Pipeline'],
-            'tools': ['GIT', 'GitHub', 'Gitea', 'Bicep', 'Terraform'],
+            'tools': ['GIT', 'GitHub', 'Gitea', 'Bicep', 'Terraform', 'Prometheus', 'Graffana'],
             'misc': ['Pandoc', 'TDD', 'SCRUM', 'MacOs', 'GNU/Linux', 'MVP']
         }
         self.architecture = ['VDC', 'IAC', 'Serverless', 'microservices', 'dapr']
