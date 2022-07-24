@@ -51,11 +51,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with MongoDB &amp; Mongoose](https://dev.to/codestackr/getting-started-with-mongodb-mongoose-2h6a)
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
+- [AD - Administrative Limits](https://www.damianflynn.com/blog/2021-07-27-ad-administrative-limits/)
+- [Bicep - Tags as Parameters](https://www.damianflynn.com/blog/2021-07-23-bicep-tags-as-parameters/)
+- [Streaming Vynil On Sonos](https://www.damianflynn.com/blog/2021-02-21-usb-turntable-streaming/)
+- [Azure IaC - Tags as Parameters](https://www.damianflynn.com/blog/2021-01-17-arm-tags-as-parameters/)
+- [Change Detection using Oxidized](https://www.damianflynn.com/blog/2020-06-30-change-history-with-oxidized/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://damianflynn.com)
