@@ -1,18 +1,42 @@
-# Hi there, I'm Damian - aka [damianflynn][youtube] 👋 
+# Damian Flynn
+
+I'm Damian from Ireland, Azure Cloud Practice Lead with Innofactor Norge, a Microsoft MVP, an Evangelist, Thinker, Creative Doer.
+
+I believe in, and deliver training following my prime principal of ***"Making Incredible Technology, Incredibly Simple!"***
+
+I define myself as an evangelist; an entrepreneur & author with an ideology rooted in business insights, technology exploration, pattern analysis and high energy. I envision, theorize and develop system architecture and strategic business platforms, soaked in storytelling and innovative technology.
+
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCC-9OqE4nfLxDf-TonKqIRw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=damianflynn.com&style=for-the-badge&url=https%3A%2F%2Fdamianflynn.com)](https://damianflynn.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/damian_flynn?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdamianflynn&screen_name=damian_flynn)
 
+```python
+class DamianFlynn:
+
+    def __init__(self):
+        self.username = 'damianflynn'
+        self.name = 'Damian Flynn'
+        self.web = 'https://damianflynn.com'
+        self.twitter = '@damian_flynn'
+        self.code = {
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'TailWind'],
+            'backend': ['Python', 'NodeJS', 'Bash', 'PowerShell', 'C#'],
+            'database': ['MsSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
+            'devops': ['Docker', 'K8s', 'Flux', 'ArgoCD', 'Nginx', 'Traefik', 'GitHub Actions', 'Azure', 'Pipeline'],
+            'tools': ['GIT', 'GitHub', 'Gitea', 'Bicep', 'Terraform'],
+            'misc': ['Pandoc', 'TDD', 'SCRUM', 'MacOs', 'GNU/Linux', 'MVP']
+        }
+        self.architecture = ['VDC', 'IAC', 'Serverless', 'microservices', 'dapr']
+
+    def __str__(self):
+        return self.name
 
 
-## I'm a Husband, Father, Consultant, and Evangalist!!
+if __name__ == '__main__':
+    me = DamianFlynn()
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: 
-- ⚡ Fun fact: I love to build and fly model aircraft's
-
+```
 
 ### Connect with me:
 
