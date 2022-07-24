@@ -37,7 +37,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
+- [Rascal Flatts   Life Is A Highway](https://www.youtube.com/watch?v=Ks5_wZcCjj0)
+- [Various Artists &lpar;Trolls World Tour&rpar; - Trolls Just Wanna Have Good Times](https://www.youtube.com/watch?v=Cp7tQFuzJNI)
+- [Idena Menzel - Into the Unknown](https://www.youtube.com/watch?v=jHnlfoERAV8)
+- [The Weeknd  - Blinding Lights](https://www.youtube.com/watch?v=59maTrHtbUY)
+- [Bobby Helms  - Jingle Bell Rock](https://www.youtube.com/watch?v=UvAQFguo8IU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/damianflynnmvp)
