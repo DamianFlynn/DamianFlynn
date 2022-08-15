@@ -1,12 +1,14 @@
-name: GitHub - Activity - Readme
+---
+name: README - GitHub - Activity
 
 on:
   schedule:
-    - cron: "0 0 * * 0"
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
-  build:
+  update-readme-with-github:
+    name: Update this repo's README with latest github activity
     runs-on: ubuntu-latest
 
     steps:

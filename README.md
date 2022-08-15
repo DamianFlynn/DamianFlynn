@@ -38,7 +38,7 @@ if __name__ == '__main__':
 
 ```
 
-### Connect with me:
+## Connect with me
 
 [![website](./img/globe-light.svg)](https://damianflynn.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://damianflynn.com#gh-dark-mode-only)
@@ -51,7 +51,6 @@ if __name__ == '__main__':
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://ie.linkedin.com/in/damianflynn#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://ie.linkedin.com/in/damianflynngh-dark-mode-only)
-
 
 <br />
 <br />
@@ -106,4 +105,3 @@ if __name__ == '__main__':
 [twitter]: https://twitter.com/damian_flynn
 [youtube]: https://youtube.com/damianflynnmvp
 [linkedin]: https://ie.linkedin.com/in/damianflynn
-
