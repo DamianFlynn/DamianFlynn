@@ -74,11 +74,11 @@ if __name__ == '__main__':
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AD - Administrative Limits](https://www.damianflynn.com/blog/2021-07-27-ad-administrative-limits/)
-- [Bicep - Tags as Parameters](https://www.damianflynn.com/blog/2021-07-23-bicep-tags-as-parameters/)
-- [Streaming Vynil On Sonos](https://www.damianflynn.com/blog/2021-02-21-usb-turntable-streaming/)
-- [Azure IaC - Tags as Parameters](https://www.damianflynn.com/blog/2021-01-17-arm-tags-as-parameters/)
-- [Change Detection using Oxidized](https://www.damianflynn.com/blog/2020-06-30-change-history-with-oxidized/)
+- [bicep-deploy vs bicep-action: A Tool or a Workflow?](https://damianflynn.com/posts/bicep-deploy-vs-bicep-action-a-tool-or-a-workflow/?utm_source=rss&utm_medium=feed)
+- [Agents need an identity, and your IT department will say no](https://damianflynn.com/talks/agents-need-an-identity-innofactor-briefing/?utm_source=rss&utm_medium=feed)
+- [Agents need an identity, and your IT department will say no](https://damianflynn.com/talks/agents-need-an-identity/?utm_source=rss&utm_medium=feed)
+- [Letting AI operate production Azure — what it gets wrong](https://damianflynn.com/talks/ai-operating-production/?utm_source=rss&utm_medium=feed)
+- [bicep-action: Plan, Review and Deploy Bicep from Pull Requests](https://damianflynn.com/posts/bicep-action-plan-review-and-deploy-bicep-from-pull-requests/?utm_source=rss&utm_medium=feed)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://damianflynn.com)
